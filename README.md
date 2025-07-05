@@ -118,8 +118,17 @@ Figures include:
 - 📈 Current Waveform
 - 🔢 Current Values
 
-> (Note: Please upload simulation images/screenshots in the `images/` folder and embed them like:  
-> `![Figure 1: Boost Converter Circuit](images/boost-circuit.png)`)
+> **Note:** Please upload simulation images/screenshots in the `images/` folder and embed them like below:
+
+### 📷 Simulation Images
+
+![Figure 1: Boost Converter Circuit](images/boost-circuit.png)
+
+![Figure 2: Simulink Model](images/simulink-model.png)
+
+![Figure 3: Output Response](images/output-response.png)
+
+![Figure 4: Current Waveform](images/current-waveform.png)
 
 ---
 
